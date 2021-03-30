@@ -2,6 +2,7 @@
 This repo contains code that illustrates block chain concepts such as mining...
 
 The code is built using codeblocks IDE version 20.3
+
 File structure:
 
 /Theme
