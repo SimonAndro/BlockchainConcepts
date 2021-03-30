@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1616663184 source:f:\c-projects\blockchain\btcmining-creating a block chain\crypto\blake3_dispatch.c
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	"blake3_impl.h"
+	<intrin.h>
+	<immintrin.h>
+
+1616662573 f:\c-projects\blockchain\btcmining-creating a block chain\crypto\blake3_impl.h
+	<assert.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	"hash.h"
+	<intrin.h>
+	<immintrin.h>
+
+1616663678 f:\c-projects\blockchain\btcmining-creating a block chain\crypto\hash.h
+	<stddef.h>
+	<stdint.h>
+
+1616660600 source:f:\c-projects\blockchain\btcmining-creating a block chain\crypto\blake3_portable.c
+	"blake3_impl.h"
+	<string.h>
+
+1616663686 source:f:\c-projects\blockchain\btcmining-creating a block chain\crypto\hash.c
+	<assert.h>
+	<stdbool.h>
+	<string.h>
+	"hash.h"
+	"blake3_impl.h"
+
+1617098216 source:f:\c-projects\blockchain\btcmining-creating a block chain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdint.h>
+	<math.h>
+	<time.h>
+	"crypto/hash.h"
+
