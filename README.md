@@ -1,6 +1,6 @@
 # BlockchainConcepts
 
- This repo contains code that illustrates blockchain concepts about [mining](https://en.wikipedia.org/wiki/Cryptocurrency) such as block data hashing, chaining blocks together in the blockchain, creating,signing and verifying transactions, implementation of a mining pool server and miners using socket programming
+ This repo contains code that illustrates blockchain and crypto [mining](https://en.wikipedia.org/wiki/Cryptocurrency) concepts such as block data hashing, chaining blocks together in the blockchain, creating,signing and verifying transactions, implementation of a mining pool server and miners using socket programming
 
 - The code is built using gcc under codeblocks IDE version 20.3(for the first two projects)
 - make build system and GNU build tools such as gcc, gdb are used for the rest of the projects
