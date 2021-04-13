@@ -1,4 +1,6 @@
 ###Implementation of finding the suitable hash for a block in the blockchain
 
-Code built and tested using codeblocks IDE, version 20.03
-entry point: main.c
+- This project is compiled using GCC under codeblocks IDE version 20.3
+
+- entry point main.c
+
