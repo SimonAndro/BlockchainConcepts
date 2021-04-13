@@ -1,4 +1,4 @@
-###Implementation of a mining pool using socket programming
+## Implementation of a mining pool using socket programming
 
 - This project is compiled using GCC
 

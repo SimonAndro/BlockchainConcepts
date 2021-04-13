@@ -1,4 +1,4 @@
-###Implementation of creating, signing and verifying transactions
+## Implementation of creating, signing and verifying transactions
 
 - This project is compiled using GCC
 
