@@ -1,4 +1,4 @@
-## Implementation of a mining pool using socket programming
+## Implementation of two nodes running in parallel on the blockchain network, using TCP
 
 - This project is compiled using GCC
 
