@@ -1,0 +1,2 @@
+E:/msys64/mingw64/bin/ar.exe qc libblockchain.a CMakeFiles/blockchain.dir/src/common.c.obj CMakeFiles/blockchain.dir/src/transaction.c.obj CMakeFiles/blockchain.dir/src/block.c.obj
+E:/msys64/mingw64/bin/ranlib.exe libblockchain.a

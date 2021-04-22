@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/blake3_dispatch.c
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+blake3_impl.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/blake3_impl.h
+intrin.h
+-
+immintrin.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/blake3_impl.h
+assert.h
+-
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+string.h
+-
+hash.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+intrin.h
+-
+immintrin.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/blake3_portable.c
+blake3_impl.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/blake3_impl.h
+string.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.c
+assert.h
+-
+stdbool.h
+-
+string.h
+-
+hash.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+blake3_impl.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/blake3_impl.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+stddef.h
+-
+stdint.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/memzero.c
+string.h
+-
+Windows.h
+-
+strings.h
+-
+sys/param.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/memzero.h
+stddef.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/ripemd160.c
+string.h
+-
+ripemd160.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/ripemd160.h
+memzero.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/memzero.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/ripemd160.h
+stdint.h
+-
+

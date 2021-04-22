@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node1/BTCmining_parallel_nodes/util/include/util.h
+stdio.h
+-
+stdint.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node1/BTCmining_parallel_nodes/util/src/util.c
+../include/util.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node1/BTCmining_parallel_nodes/util/include/util.h
+

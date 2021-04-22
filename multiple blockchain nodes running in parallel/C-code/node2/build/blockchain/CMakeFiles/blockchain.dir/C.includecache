@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/block.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdint.h
+-
+math.h
+-
+time.h
+-
+common.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/common.h
+transaction.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/transaction.h
+../../crypto/hash.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+../../util/include/util.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/util/include/util.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/common.h
+stdlib.h
+-
+stdio.h
+-
+../../crypto/hash.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/transaction.h
+stdlib.h
+-
+stdio.h
+-
+stdint.h
+-
+string.h
+-
+common.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/common.h
+../../crypto/hash.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+../../util/include/util.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/util/include/util.h
+../../secp256k1/include/secp256k1.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/secp256k1/include/secp256k1.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/src/block.c
+../include/block.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/block.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/src/common.c
+../include/common.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/common.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/src/transaction.c
+../include/transaction.h
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/blockchain/include/transaction.h
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/crypto/hash.h
+stddef.h
+-
+stdint.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/secp256k1/include/secp256k1.h
+stddef.h
+-
+
+F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node2/BTCmining_parallel_nodes/util/include/util.h
+stdio.h
+-
+stdint.h
+-
+

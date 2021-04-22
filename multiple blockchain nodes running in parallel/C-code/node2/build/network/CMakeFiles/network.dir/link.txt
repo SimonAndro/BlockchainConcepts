@@ -1,0 +1,2 @@
+E:/msys64/mingw64/bin/ar.exe qc libnetwork.a CMakeFiles/network.dir/src/network.c.obj
+E:/msys64/mingw64/bin/ranlib.exe libnetwork.a

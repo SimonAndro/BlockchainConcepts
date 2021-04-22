@@ -1,0 +1,1 @@
+ blockchain/libblockchain.a network/libnetwork.a util/libutil.dll.a crypto/libcrypto.dll.a "F:/C-projects/Blockchain/BlockchainConcepts-repo/multiple blockchain nodes running in parallel/C-code/node1/BTCmining_parallel_nodes/../lib/libsecp256k1.a" -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
