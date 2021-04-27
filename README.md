@@ -4,6 +4,7 @@
 
 - The code is built using gcc under codeblocks IDE version 20.3(for the first two projects)
 - make build system and GNU build tools such as gcc, gdb are used for the rest of the projects
+- Remix platform is used for the token issuing project
 
 ## File structure:
 
