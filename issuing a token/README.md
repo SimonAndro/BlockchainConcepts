@@ -1,3 +1,3 @@
 # WIPOLO
 
-## Issuing a sample token called WIPOLO(WPL) on the etherium network using remix platform
+## Issuing a sample token called WIPOLO(WPL) on the ethereum  network using remix platform
